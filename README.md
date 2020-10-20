@@ -1,0 +1,1 @@
+This is Mico's first git project!
